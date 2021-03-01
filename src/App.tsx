@@ -7,7 +7,7 @@ function App() {
     <div className="container">
       <ExperienceBar />
     </div>
-  );
+  )
 }
 
 export default App;
