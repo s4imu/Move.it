@@ -15,5 +15,5 @@ This project needs [Node](https://nodejs.org/en/download/) and [Yarn](https://cl
     $ yarn install
 
     # Start the Project
-    $ yarn start
+    $ yarn dev
 ```
