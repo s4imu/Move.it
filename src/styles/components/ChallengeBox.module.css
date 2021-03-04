@@ -115,3 +115,9 @@
     background: var(--red);
     border: 0;
 }
+
+@media(max-width: 720px){
+    .challengeActive footer button {
+        font-size: 80%;
+    }
+}
