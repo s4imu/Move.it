@@ -1,13 +1,13 @@
 # <p align=center><img src="./public/favicon.ico"> Move.it</p>
 
 <h1 align=center>
-    <img src="https://imgur.com/a/nQGeRkW">
+    <img src="./public/assets/mainpage.PNG">
 </h1>
 
 ## About
 **Move.it** is an app based in the pomodoro technique where during the interval of cycles you can complete  challenges to earn experience and prevent damages to your body for the continuous use of a computer
 
-[Access here](https://bit.ly/30kfAxs)
+[Access here]()
 
 ---
 
@@ -22,7 +22,7 @@
 ### Completing challenges
 
 <h1 align=center>
-    <img src="https://imgur.com/Kbe6Dsq">
+    <img src="./public/assets/Completing Challenges ‐ Made with Clipchamp.gif">
 </h1>
 
 ## 📂How to download the project
