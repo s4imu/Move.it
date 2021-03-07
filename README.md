@@ -7,8 +7,6 @@
 ## About
 **Move.it** is an app based in the pomodoro technique where during the interval of cycles you can complete  challenges to earn experience and prevent damages to your body for the continuous use of a computer
 
-[Access here]()
-
 ---
 
 ## Technologies used 
